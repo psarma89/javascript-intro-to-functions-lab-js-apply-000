@@ -39,3 +39,6 @@ function sayHiToGrandma(string){
   }else {
   }
 }
+
+console.log(sayHiToGrandma('HELLO'))
+console.log(sayHiToGrandma('HELLO'))
