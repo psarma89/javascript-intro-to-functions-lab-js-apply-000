@@ -6,8 +6,8 @@ function shout(string){
     console.log("Please Enter an argument of type string")
   }
 }
-console.log(shout(3))
-console.log(shout('Tango'))
+//console.log(shout(3))
+//console.log(shout('Tango'))
 
 // This whisper(string) function receives one argument and returns it in all lowercase
 function whisper(string){
