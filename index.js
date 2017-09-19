@@ -25,7 +25,7 @@ function logShout(string){
 
 //This logWhisper(string) function calls console.log() with its one argument in all lowercase
 function logWhisper(string){
-
+  console.log(whisper(string))
 }
 
 // This sayHiToGrandma(string) function returns conditional based outputs based on input
