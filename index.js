@@ -3,7 +3,7 @@ function shout(string){
   if (typeof string === 'string'){
     return string.toUpperCase()
   } else {
-    console.log("Please Enter an argument of type string ")
+    console.log("Please Enter an argument of type string")
   }
 }
 console.log(shout(3))
