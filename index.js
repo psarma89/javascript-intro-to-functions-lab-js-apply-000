@@ -30,7 +30,9 @@ function logWhisper(string){
 
 // This sayHiToGrandma(string) function returns conditional based outputs
 function sayHiToGrandma(string){
-  if ()
+  if (string.toLowerCase() ===string){
+
+  }
 }
 
 
