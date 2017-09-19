@@ -1,5 +1,1 @@
-//This is a function shout(string) that receives one argumrnt and returns it all in caps
-
-function shout(string) {
-  return()
-}
+// This shout(string) function receives one argument and return it in all caps
