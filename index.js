@@ -11,7 +11,11 @@ function shout(string){
 
 // This whisper(string) function receives one argument and returns it in all lowercase
 function whisper(string){
-  return string.toLowerCase()
+  if (typeof string === 'string'){
+    return string.toUpperCase()
+  } else {
+    console.log("Please Enter an argument of type string")
+  }
 }
 
 // This logShout(string) function calls console.log() its one argument in all caps
