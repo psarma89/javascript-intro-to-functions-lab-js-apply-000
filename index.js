@@ -28,7 +28,7 @@ function logWhisper(string){
   console.log(whisper(string))
 }
 
-// This sayHiToGrandma(string) function returns conditional based outputs based on input
+// This sayHiToGrandma(string) function returns conditional based outputs
 function sayHiToGrandma(string){
   if (string ==="I love you, Grandma."){
     return "I love you, too."
