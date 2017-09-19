@@ -31,7 +31,7 @@ function logWhisper(string){
 // This sayHiToGrandma(string) function returns conditional based outputs
 function sayHiToGrandma(string){
   if (string.toLowerCase() === string){
-
+    return "I can't hear you!"
   }
 }
 
