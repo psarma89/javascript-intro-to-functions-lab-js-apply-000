@@ -18,11 +18,12 @@ function whisper(string){
   }
 }
 
-// This logShout(string) function calls console.log() its one argument in all caps
+// This logShout(string) function calls console.log() with its one argument in all caps
 function logShout(string){
+  console.log(shout(string))
 }
 
-//This logWhisper(string) function calls console.log() its one argument in all lowercase
+//This logWhisper(string) function calls console.log() with its one argument in all lowercase
 function logWhisper(string){
 
 }
