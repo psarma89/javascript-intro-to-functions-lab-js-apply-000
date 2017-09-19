@@ -40,4 +40,3 @@ function sayHiToGrandma(string){
   }else {
   }
 }
-
