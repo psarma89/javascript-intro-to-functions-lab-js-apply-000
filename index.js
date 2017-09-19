@@ -7,6 +7,8 @@ function shout(string){
   }
 }
 console.log(shout(3))
+console.log(shout('Tango'))
+
 // This whisper(string) function receives one argument and returns it in all lowercase
 function whisper(string){
   return string.toLowerCase()
@@ -25,4 +27,3 @@ function logWhisper(string){
 function sayHiToGrandma(string){
 
 }
-
